@@ -1,1 +1,6 @@
-dev源文件修改 修改跟踪提交合并
+
+dev源文件修改 修改跟踪提交合并  -合并了master下的hotfix分支 并行合并
+
+master 公共文件
+master 下  hotfix bug修复
+
